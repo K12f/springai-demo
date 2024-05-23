@@ -1,0 +1,8 @@
+server:
+  port: 8889
+spring:
+  ai:
+    openai:
+      api-key: sk-UGqrqvnPOLROrKTH83D48623Cc0245A8B59e146d84D9E291
+      base-url: https://www.gptapi.us
+debug: true
